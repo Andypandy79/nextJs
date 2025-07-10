@@ -15,11 +15,7 @@ const Menu = () => {
             <ShoppingCart /> Cart
           </Link>
         </Button>
-<<<<<<< HEAD
          <UserButton/>
-=======
-        <UserButton/>
->>>>>>> 5d287da8301694acd5694b0e22c6a76cd78a4080
       </nav>
       <nav className='md:hidden'>
         <Sheet>
@@ -34,11 +30,7 @@ const Menu = () => {
                 <ShoppingCart /> Cart
               </Link>
             </Button>
-<<<<<<< HEAD
              <UserButton/>
-=======
-            <UserButton/>
->>>>>>> 5d287da8301694acd5694b0e22c6a76cd78a4080
             <SheetDescription></SheetDescription>
           </SheetContent>
         </Sheet>

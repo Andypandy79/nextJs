@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 import {hashSync} from 'bcrypt-ts-edge';
 
 
 const sampleData = {
   users: [
-=======
-import { hashSync } from 'bcrypt-ts-edge';
-
-const sampleData = {
-   users: [
->>>>>>> 5d287da8301694acd5694b0e22c6a76cd78a4080
     {
       name: 'John',
       email: 'admin@example.com',
@@ -23,10 +16,6 @@ const sampleData = {
       role: 'user',
     },
   ],
-<<<<<<< HEAD
-=======
-
->>>>>>> 5d287da8301694acd5694b0e22c6a76cd78a4080
   products: [
     {
       name: 'Polo Sporting Stretch Shirt',
